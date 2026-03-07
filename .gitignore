@@ -1,0 +1,10 @@
+# 数据
+data/
+*.cvs
+
+# python
+__pycache__/
+*.pyc
+
+# notebook
+.ipynb_checkpoints/
