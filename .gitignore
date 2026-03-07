@@ -1,6 +1,6 @@
 # 数据
 data/
-*.cvs
+*.csv
 
 # python
 __pycache__/
@@ -8,3 +8,6 @@ __pycache__/
 
 # notebook
 .ipynb_checkpoints/
+
+# vscode
+.vscode/
